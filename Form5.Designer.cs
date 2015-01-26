@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-﻿namespace GitTest
-=======
 ﻿namespace Git
->>>>>>> b33fe5b8bb205e7438bd5a6fdb7659c2213da52e
 {
-    partial class Form1
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -32,27 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-<<<<<<< HEAD
-            this.ClientSize = new System.Drawing.Size(570, 456);
-            this.Name = "Form1";
-            this.Text = "Form1";
-=======
-            this.ClientSize = new System.Drawing.Size(428, 340);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
->>>>>>> b33fe5b8bb205e7438bd5a6fdb7659c2213da52e
-            this.ResumeLayout(false);
-
+            this.Text = "Form5";
         }
 
         #endregion
     }
 }
-

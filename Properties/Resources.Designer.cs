@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace GitTest.Properties
+=======
+namespace Git.Properties
+>>>>>>> b33fe5b8bb205e7438bd5a6fdb7659c2213da52e
 {
 
 
@@ -44,7 +48,11 @@ namespace GitTest.Properties
             {
                 if ((resourceMan == null))
                 {
+<<<<<<< HEAD
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GitTest.Properties.Resources", typeof(Resources).Assembly);
+=======
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Git.Properties.Resources", typeof(Resources).Assembly);
+>>>>>>> b33fe5b8bb205e7438bd5a6fdb7659c2213da52e
                     resourceMan = temp;
                 }
                 return resourceMan;

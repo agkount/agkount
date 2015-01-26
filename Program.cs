@@ -4,7 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+<<<<<<< HEAD
 namespace GitTest
+=======
+namespace Git
+>>>>>>> b33fe5b8bb205e7438bd5a6fdb7659c2213da52e
 {
     static class Program
     {

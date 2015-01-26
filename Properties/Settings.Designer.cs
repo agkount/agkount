@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace GitTest.Properties
+=======
+namespace Git.Properties
+>>>>>>> b33fe5b8bb205e7438bd5a6fdb7659c2213da52e
 {
 
 
